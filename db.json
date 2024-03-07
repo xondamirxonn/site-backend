@@ -1,20 +1,196 @@
 {
-  "users": [],
-  "banner": [],
-  "brand": [
+  "users": [
     {
-      "id": 4,
-      "img": "https://raw.githubusercontent.com/abdurahmon97v/img/main/phone1.jpg",
-      "title": "MI"
+      "email": "abdulazizovxondamirxon@gmail.com",
+      "password": "$2a$10$ch2OjrD9QYJEjWiASeXgyukZYtRBImkh/t9zEUv96NPJH.W.CBS1u",
+      "firstName": "Xondamir",
+      "LastName": "Abdilazizov",
+      "phoneNumber": "998901670177",
+      "id": 1
+    },
+    {
+      "email": "alisherYusupov@gmail.com",
+      "password": "$2a$10$wrpkORhk0Yhn9erX96KUse/aHO/CkXOpmz.YbLRjdNOCMeB7Npnfu",
+      "firstName": "Alisher",
+      "LastName": "Yusupov",
+      "phoneNumber": "998901670177",
+      "id": 2
+    },
+    {
+      "email": "r@g",
+      "password": "$2a$10$ssBfCcvcp66wRP7AOuz8ZeD.q69jCCulRqNWFhitXMkGUxiYseCYO",
+      "firstName": "a",
+      "LastName": "dg",
+      "phoneNumber": "39",
+      "id": 3
+    },
+    {
+      "email": "wr@rf",
+      "password": "$2a$10$M2QCf2ug0Fx4/zXZLW3zTu7yut3weQ6j2ywY.m5JV5/30iGvaDhKC",
+      "firstName": "d",
+      "LastName": "fs",
+      "phoneNumber": "f",
+      "id": 4
+    },
+    {
+      "email": "jasurimomov@gmail.com",
+      "password": "$2a$10$I5fPWuBufmsQ/mcbcI/o1e8Qr.BtGx86Q72Dbv.zVnHtat9Bi8XPi",
+      "firstName": "Jasur",
+      "LastName": "Imomov",
+      "phoneNumber": "998937148998",
+      "id": 5
+    },
+    {
+      "email": "aad@gm",
+      "password": "$2a$10$EROKcVv0kZ8jZWmqbU0ciO6Vyaf/VaHl1PvtnEZP3Qn.EkpE/iqsu",
+      "firstName": "fhdsi",
+      "LastName": "afdjb",
+      "phoneNumber": "0943",
+      "id": 6
     }
   ],
-
+  "discount": [
+    {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/flip_samsung.png"
+    },
+    {
+      "id": 2,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/iphone_dis.png"
+    },
+    {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/laptop_dis.png"
+    }
+  ],
+  "banner": [
+    {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/banner.png"
+    },
+    {
+      "id": 2,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/banner.png"
+    }
+  ],
+  "brand": [
+    {
+      "id": 1,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand.png",
+      "title": "KitchenAid"
+    },
+    {
+      "id": 2,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand2.jpg",
+      "title": "Sony"
+    },
+    {
+      "id": 3,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand3.jpg",
+      "title": "Haier"
+    },
+    {
+      "id": 4,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand4.jpg",
+      "title": "Bosch"
+    },
+    {
+      "id": 5,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand5.jpg",
+      "title": "MI"
+    },
+    {
+      "id": 6,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/huawei.png",
+      "title": "Huawei"
+    },
+    {
+      "id": 7,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand6.jpg",
+      "title": "LG"
+    },
+    {
+      "id": 8,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand7.jpg",
+      "title": "HP"
+    },
+    {
+      "id": 9,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand8.jpg",
+      "title": "Logitech"
+    },
+    {
+      "id": 10,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand9.jpg",
+      "title": "Apple"
+    },
+    {
+      "id": 11,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand10.jpg",
+      "title": "Tefal"
+    },
+    {
+      "id": 12,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/samsung.png",
+      "title": "Samsung"
+    },
+    {
+      "id": 13,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand11.jpg",
+      "title": "oppo"
+    },
+    {
+      "id": 14,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand12.jpg",
+      "title": "WF"
+    },
+    {
+      "id": 15,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand13.jpg",
+      "title": "Whirlpool"
+    },
+    {
+      "id": 16,
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/brand14.jpg",
+      "title": "Honor"
+    }
+  ],
   "category": [
     {
       "id": 1,
       "title": "Смартфоны и планшеты",
-      "datakey":"tel",
-      "img": "https://raw.githubusercontent.com/abdurahmon97v/img/main/phone1.jpg"
+      "datakey": "phones",
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/phonecatagory.png"
+    },
+    {
+      "id": 2,
+      "title": "Ноутбуки",
+      "datakey": "laptops",
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/laptopcatagory.png"
+    },
+    {
+      "id": 3,
+      "title": "Авто мото товары",
+      "datakey": "auto",
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/avtocategory.png"
+    },
+    {
+      "id": 4,
+      "title": "Компьютеры для геймеров",
+      "datakey": "computers",
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/laptopcatagory.png"
+    },
+    {
+      "id": 5,
+      "title": "Бытовая техника",
+      "datakey": "laptops",
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/bitocategory.png"
+    },
+    {
+      "id": 6,
+      "title": "Развлечение",
+      "datakey": "laptops",
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/tennis.jpg"
     }
   ],
   "tel": [
@@ -24,6 +200,76 @@
       "brand": "MI",
       "price": 660,
       "id": 1
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/phone10.jpg",
+      "title": "Samsung Galaxy A34 5G 8/128 GB",
+      "brand": "Samsung",
+      "price": 270,
+      "id": 2
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/phone3.jpg",
+      "title": "Xiaomi Redmi Note 13 Green 8/256 GB",
+      "brand": "Xiaomi",
+      "price": 301,
+      "id": 3
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/phone4.jpg",
+      "title": "Samsung Galaxy A14 4/128 GB",
+      "brand": "Samsung",
+      "price": 170,
+      "id": 4
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/phone5.jpg",
+      "title": "Samsung Galaxy S24 8/256 GB",
+      "brand": "Samsung",
+      "price": 1000,
+      "id": 5
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/phone6.jpg",
+      "title": "Samsung Galaxy S24 Gray 8/256 GB",
+      "brand": "Samsung",
+      "price": 1000,
+      "id": 6
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/phone7.jpg",
+      "title": "Samsung Galaxy S24 Black 8/128 GB",
+      "brand": "Samsung",
+      "price": 950,
+      "id": 7
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/phone8.jpg",
+      "title": "Samsung Galaxy S24",
+      "brand": "Samsung",
+      "price": 950,
+      "id": 8
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/phone9.jpg",
+      "title": "Samsung Galaxy S24 Ultra 12/512 GB Titanium Black",
+      "brand": "Samsung",
+      "price": 1640,
+      "id": 9
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/phone10.jpg",
+      "title": "Samsung Galaxy S24 Ultra 12/256 GB Titanium Black",
+      "brand": "Samsung",
+      "price": 1540,
+      "id": 10
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/phone11.jpg",
+      "title": "Samsung Galaxy S24 Ultra 12/512 GB Titanium Gray",
+      "brand": "Samsung",
+      "price": 1660,
+      "id": 11
     }
   ],
   "tv": [
@@ -33,6 +279,239 @@
       "brand": "MI",
       "price": 660,
       "id": 1
+    }
+  ],
+  "avto": [
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/avto1.jpg",
+      "title": "Автомобильный аккумулятор Visca 40",
+      "price": 500,
+      "id": 1
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/avto2.jpg",
+      "title": "Автомобильный аккумулятор Visca 40",
+      "price": 600,
+      "id": 2
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/avto3.jpg",
+      "price": 200,
+      "title": "Автомобильный аккумулятор Visca 40",
+      "id": 3
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/avto4.jpg",
+      "title": "Автомобильный аккумулятор Visca 40",
+      "price": 1000,
+      "id": 4
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/avto5.jpg",
+      "title": "Автомобильный аккумулятор Visca 40",
+      "price": 1200,
+      "id": 5
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/avto6.jpg",
+      "title": "Автомобильный аккумулятор Visca 40",
+      "price": 200,
+      "id": 6
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/avto7.jpg",
+      "title": "Автомобильный аккумулятор Visca 40",
+      "price": 400,
+      "id": 7
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/avto8.jpg",
+      "title": "Автомобильный аккумулятор Visca 40",
+      "price": 700,
+      "id": 8
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/avto9.jpg",
+      "title": "Автомобильный аккумулятор Visca 40",
+      "price": 100,
+      "id": 9
+    }
+  ],
+  "appliances": [
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/bito1.jpg",
+      "title": "Очиститель воздуха AENO ",
+      "price": 300,
+      "id": 1
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/bito2.jpg",
+      "title": "Отпариватель GARMENT STEAMER SX3 ",
+      "price": 110,
+      "id": 2
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/bito3.jpg",
+      "title": "Пылесос Sinbo SVC-8603 ",
+      "price": 80,
+      "id": 3
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/bito4.jpg",
+      "title": "Робот пылесос ",
+      "price": 200,
+      "id": 4
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/bito5.jpg",
+      "title": "Робот пылесос Xiaomi Vacuum E12  ",
+      "price": 200,
+      "id": 5
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/bito6.jpg",
+      "title": "Промышленная швейная машина Sggemsy S2 ",
+      "price": 390,
+      "id": 6
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/bito7.jpg",
+      "title": "Стиральная машина Premier",
+      "price": 300,
+      "id": 7
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/bito8.jpg",
+      "title": "Утюг Philips Dst 8021",
+      "price": 40,
+      "id": 8
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/bito9.jpg",
+      "title": "Холодильник LG GC-F689BLCM ",
+      "price": 1200,
+      "id": 9
+    },
+    {
+      "img": "https://raw.githubusercontent.com/xondamirxonn/gipermart-image/master/bito10.jpg",
+      "title": "Стиральная машина автомат",
+      "price": 250,
+      "id": 10
+    }
+  ],
+
+  "laptop": [
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "laptop",
+      "price": 2700,
+      "id": 1
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Redmi Note 13 Pro Black 8/128 GB",
+      "brand": "laptop",
+      "price": 4000,
+      "id": 2
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(7).png",
+      "title": "Ноутбук HP 15-FQ5295NIA I5-1235U 8/512 GB SSD DOS 15.6",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 3
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Ноутбук HP Pavilion x360 i5-1235U 8/512 GB 14 FHD",
+      "brand": "laptop",
+      "price": 3000,
+      "id": 4
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Ноутбук MSI GF63 12UCX-428 ( From UAE)",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 5
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(7).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "laptop",
+      "price": 2700,
+      "id": 6
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Redmi Note 13 Pro Black 8/128 GB",
+      "brand": "laptop",
+      "price": 4000,
+      "id": 7
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Ноутбук HP 15-FQ5295NIA I5-1235U 8/512 GB SSD DOS 15.6",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 8
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(10).png",
+      "title": "Ноутбук HP Pavilion x360 i5-1235U 8/512 GB 14 FHD",
+      "brand": "laptop",
+      "price": 3000,
+      "id": 9
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(7).png",
+      "title": "Ноутбук MSI GF63 12UCX-428 ( From UAE)",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 10
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "laptop",
+      "price": 2700,
+      "id": 11
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Redmi Note 13 Pro Black 8/128 GB",
+      "brand": "laptop",
+      "price": 4000,
+      "id": 12
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(7).png",
+      "title": "Ноутбук HP 15-FQ5295NIA I5-1235U 8/512 GB SSD DOS 15.6",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 13
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(9).png",
+      "title": "Ноутбук HP Pavilion x360 i5-1235U 8/512 GB 14 FHD",
+      "brand": "laptop",
+      "price": 3000,
+      "id": 14
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(8).png",
+      "title": "Ноутбук MSI GF63 12UCX-428 ( From UAE)",
+      "brand": "laptop",
+      "price": 1500,
+      "id": 15
+    },
+    {
+      "img": "https://raw.githubusercontent.com/YuldoshevQuvonchbek/GiperMartImg/main/Rectangle%402x%20(7).png",
+      "title": "Samsung Galaxy A34 5G 8/128 GB Awesome Graphite (Бывший",
+      "brand": "laptop",
+      "price": 2700,
+      "id": 16
     }
   ]
 }
